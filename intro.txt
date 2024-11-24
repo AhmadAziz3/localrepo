@@ -1,2 +1,2 @@
 It is a sentence.
-It is a new feature.
+It is a new feature in main branch.
