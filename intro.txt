@@ -1,1 +1,2 @@
 It is a sentence.
+It is a new feature.
